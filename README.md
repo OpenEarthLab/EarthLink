@@ -3,8 +3,11 @@
 <p align="center">
   <img src="./assets/logo.png" width="300px" style="vertical-align:middle;">
 </p>
-</div>
 
 # EarthLink: A Self-Evolving AI Agent for Climate Science
 
 [[ Paper 📄 ]](https://arxiv.org/abs/2507.17311) [[ Project Page 🛠️ ]](http://www.openearthlab.com/EarthLink) [[ Website 🌐 ]](https://earthlink.intern-ai.org.cn/)
+
+
+</div>
+
