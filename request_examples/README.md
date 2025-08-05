@@ -10,4 +10,4 @@
 
 2. **Specify Available Datasets**  
    Due to limitations in the current version, failing to specify datasets may result in errors. It is recommended to explicitly list the datasets to be used.  
-   Refer to [`files/avail_CMIP6_data.xlsx`](https://github.com/OpenEarthLab/EarthLink/blob/main/files/avail_CMIP6_data.xlsx), [`files/avail_obs_data.xlsx`](https://github.com/OpenEarthLab/EarthLink/blob/main/files/avail_obs_data.xlsx) and [`files/avail_obs4mips_data.xlsx`](https://github.com/OpenEarthLab/EarthLink/blob/main/files/avail_obs4mips_data.xlsx) for details on available datasets.
+   Refer to [`files/avail_CMIP6_data.xlsx`](../files/avail_CMIP6_data.xlsx), [`files/avail_obs_data.xlsx`](../files/avail_obs_data.xlsx) and [`files/avail_obs4mips_data.xlsx`](../files/avail_obs4mips_data.xlsx) for details on available datasets.

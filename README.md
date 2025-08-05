@@ -11,3 +11,15 @@
 
 </div>
 
+## Documentation
+
+- [Guidelines for Writing Requests](./request_examples/README.md#guidelines-for-writing-requests)
+- [Available Data Information](./files/avail_data.xlsx)
+  - [CMIP6 Data](./files/avail_CMIP6_data.xlsx)
+  - [Obs Data](./files/avail_obs_data.xlsx)
+  - [obs4MIPs](./files/avail_obs4mips_data.xlsx)
+
+
+## Contact
+
+If you have any questions, feel free to reach out to us at [`guozijie@pjlab.org.cn`](mailto:guozijie@pjlab.org.cn) or [`lingfenghua@pjlab.org.cn`](lingfenghua@pjlab.org.cn).
