@@ -1,0 +1,5 @@
+Evaluate and compare the cloud radiative effect in different observational datasets.
+Requirements:
+1. Visualize differences across regions.
+2. Dataset: CERES-EBAF, ESACCI-CLOUD, ISCCP-FH, NCEP-NCAR-R1.
+3. Time period: 2005-2014.

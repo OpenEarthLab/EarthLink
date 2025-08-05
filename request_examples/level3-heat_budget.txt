@@ -1,0 +1,17 @@
+Diagnose Ocean Heat Budget During La Niña Events Using CMIP6 Model Output.
+Requirements:
+1. Use ocean 3D velocities (`uo`, `vo`, `wo`) and surface heat flux (`hfds`) to compute ocean heat budget components over the tropical Pacific.
+2. Separate the total heat budget into:
+   - Surface heat flux term (from `hfds`)
+   - Horizontal and vertical advection terms (computed from `uo`, `vo`, `wo`, and temperature `thetao`)
+   - Residual term (budget closure error)
+3. Focus on composite La Niña years, and compare:
+   - Typical La Niña events vs. the 1988–1989 special case
+   - Development, peak, and decay phases
+4. Plot:
+   - Time series of heat budget terms during La Niña life cycle
+   - Spatial maps of anomalous zonal heat advection during peak and decay phases
+   - Bar chart comparing the magnitude of each budget term across event types
+5. CMIP6 models: GISS-E2-2-G, IPSL-CM6A-LR, MCM-UA-1-0, MPI-ESM1-2-LR, NESM3.
+6. Reference dataset: GODAS.
+7. Time period: 1980-2014

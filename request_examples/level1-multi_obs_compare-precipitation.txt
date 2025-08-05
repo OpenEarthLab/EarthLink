@@ -1,0 +1,5 @@
+Evaluate and compare the monthly precipitation in different observational datasets.
+Requirements:
+1. Visualize differences across regions.
+2. Dataset: GPCP-SG, NCEP-NCAR-R1, ERA5.
+3. Time period: 1985-2014.

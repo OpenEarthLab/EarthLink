@@ -1,0 +1,10 @@
+Evaluate CMIP6 models in simulating Ocean Heat Content (OHC).
+Requirements:
+1. Calculate the OHC only based on thetao data, don't use supplementary_variables as observational data doesn't have these data. 
+2. The results should include time seriese figures of anomalies , bar charts of change, spatial maps of OHC trend, et.al.
+3. Analyze at different depth ranges: 0-300m, 0-700m, 0-2000m.
+4. CMIP6 models: CIESM, CMCC-ESM2, FGOALS-f3-L, FIO-ESM-2-0, GFDL-CM4, MPI-ESM1-2-LR
+5. Reference thetao Dataset: IAP. Note that the original variable unit of IAP may not be thetao. If necessary, convert unit to thetao according to TEOS-10.
+6. Time period: 1970-2010 (use 1991-2010 minus 1970-1990 as change; calculate trend in whole period).
+7. The defination of OHC trend (or alternatively, OHC rate, or tendency): The time derivative of OHC (dOHC/dt), given in units of J yr −1 or W m −2.
+8. For all figures, choose appropriate colormap, bars or contour levels to highlight the key features.

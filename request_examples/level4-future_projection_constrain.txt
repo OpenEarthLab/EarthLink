@@ -1,0 +1,20 @@
+Projecting future surface temperatures in Africa.
+Requirements:
+1. CMIP6 models: BCC-CSM2-MR, CAMS-CSM1-0, CAS-ESM2-0, CESM2-WACCM, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, E3SM-2-0, FGOALS-f3-L, GFDL-ESM4, INM-CM4-8, INM-CM5-0, IPSL-CM6A-LR, IPSL-CM5A2-INCA, KACE-1-0-G, MIROC6, MPI-ESM1-2-LR, MRI-ESM2-0, TaiESM1
+2. Reference surface temperature dataset: ERA5.
+3. Constraint Methodology:
+   - Use historical simulations to define 10 candidate constraint factors related to African surface temperature trends of future projection.
+   - Calculate the regression equation between each factor and the projected future tas trend (2015–2035) across models. Save the obtained slope and bias.
+   - Select the constraint factor with the highest correlation coefficient.
+   - If correlation > 0.7, use regression to predict future constrained trends. Compute the residual between the model mean and the regression fit, and add it to the regression result based on observed values.
+   - If correlation < 0.7, redefine the 10 constraint factors and repeat the process.
+   - Visualize the correlation coefficients for all 10 constraint factors using a bar chart.
+4. Plots to generate:
+   - PDF distribution of the original and constrained temperature trends.
+   - Spatial maps of surface temperature trend for original and constrained projections.
+   - Time series of African mean temperature anomalies (historical + projection).
+   - Bar chart of correlation coefficients for the 10 constraint factor candidates as mentioned above.
+5. Projection Period: 2015–2035.
+6. Output:
+   - Assess potential impacts of projected warming on African agriculture over the next 20 years.
+   - Provide high-level guidance for agricultural planning and climate adaptation strategies.

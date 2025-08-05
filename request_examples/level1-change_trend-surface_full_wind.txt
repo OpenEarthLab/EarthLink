@@ -1,0 +1,7 @@
+Evaluate CMIP6 models in simulating surface full wind speed.
+Requirements:
+1. Plot time series figures of anomalies, bar charts and spatial maps of change, spatial maps of trend, et.al.
+2. Give the model a ranking, which can be displayed in a bar chart.
+3. CMIP6 models: ACCESS-ESM1-5, BCC-CSM2-MR, CAMS-CSM1-0, CAS-ESM2-0, CESM2-WACCM, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, E3SM-2-0, FGOALS-f3-L, GFDL-ESM4, INM-CM4-8, INM-CM5-0, IPSL-CM6A-LR, IPSL-CM5A2-INCA, KACE-1-0-G, MIROC6, MPI-ESM1-2-LR, MRI-ESM2-0, TaiESM1
+4. Reference Dataset: ERA5.
+5. Time period: 1970-2010 (use 1991-2010 minus 1970-1990 as change; calculate trend in whole period).

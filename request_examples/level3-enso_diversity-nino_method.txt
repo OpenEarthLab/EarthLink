@@ -1,0 +1,20 @@
+Evaluate and compare the performance of CMIP6 models for simulating the El Niño-Southern Oscillation (ENSO) Diversity.
+Requirements:
+1.  ENSO Index Calculation
+  Define functions to calculate standard ENSO indices:
+   - Niño3 index (SST anomaly in 5°S-5°N, 150°W-90°W)
+   - Niño4 index (SST anomaly in 5°S-5°N, 160°E-150°W)
+   - Niño3.4 index (SST anomaly in 5°S-5°N, 170°W-120°W)
+ Calculate monthly climatology and remove it to obtain anomalies
+ Compute the indices for each model and observations
+2. ENSO Diversity Analysis
+ Implement EP (Eastern Pacific) and CP (Central Pacific) ENSO event identification
+   - Use Niño method or pattern-based approaches
+   - Classify historical El Niño events as EP or CP type
+ Calculate the amplitude of EP events for each model
+ Compute spatial patterns of SST anomalies during EP and CP events
+ Calculate pattern correlation coefficients between models and observations
+3. Rank the models and display them in a bar chart.
+4. CMIP6 models: ACCESS-CM2, ACCESS-ESM1-5, BCC-ESM1, BCC-CSM2-MR, CAMS-CSM1-0, CAS-ESM2-0, CESM2, CIESM, CMCC-CM2-HR4, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, FGOALS-f3-L, FGOALS-g3, FIO-ESM-2-0, GFDL-CM4, GFDL-ESM4, GISS-E2-2-G, GISS-E2-2-H, INM-CM5-0, IPSL-CM6A-LR-INCA, KACE-1-0-G, KIOST-ESM, MCM-UA-1-0, MIROC6 MPI-ESM-1-2-HAM, MPI-ESM1-2-LR, NESM3, NorCPM1.
+5. Reference dataset: HadISST.
+6. Time period: 1980-2014.

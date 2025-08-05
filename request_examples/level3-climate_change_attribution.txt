@@ -1,0 +1,8 @@
+Quantify the contribution of different forcing factors to the observed warming in global average temperature from 1901 to 2015.
+Requirements:
+1. Use the regression-based fingerprint attribution method to estimate the contribution of different forcing factors. 
+2. Plot estimated contributions of each forcing factor over time.
+3. Give the main drivers of observed climate warming, based on model-observation comparison.
+4. CMIP6 model: ACCESS-CM2, ACCESS-ESM1-5, BCC-CSM2-MR, CanESM5, GFDL-ESM4, IPSL-CM6A-LR, MRI-ESM2-0 
+5. Note: Multi-model results should be averaged before applying regression or fingerprint detection.
+6. Reference Dataset: HadCRUT5

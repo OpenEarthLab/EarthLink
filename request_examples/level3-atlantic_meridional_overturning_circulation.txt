@@ -1,0 +1,10 @@
+Evaluate the Atlantic Meridional Overturning Circulation (AMOC) in CMIP6 models.
+Requirements:
+1. Compute AMOC based only on 'vo' data.
+2. CMIP6 models: CESM2, CMCC-CM2-SR5, FGOALS-f3-L, GFDL-CM4, GISS-E2-2-G, GISS-E2-2-H, IPSL-CM6A-LR, MCM-UA-1-0, MPI-ESM-1-2-HAM, MPI-ESM1-2-LR, NESM3
+3. Evaluate climatological mean and interannual variability.
+4. Plot:
+    - Mean AMOC vertical profile at 26.5°N
+    - Time series of annual-mean AMOC strength at 26.5°N
+    - PDF of AMOC strength across models
+5. Reference vo dataset: GODAS (available time period: 1980-2023)

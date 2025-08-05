@@ -1,0 +1,7 @@
+Analyze global average surface air temperature changes under different SSP scenarios
+Requirements:
+1. CMIP6 models: CAMS-CSM1-0, CanESM5, FGOALS-g3, GFDL-ESM4, IPSL-CM6A-LR, MIROC6, MPI-ESM1-2-LR, MRI-ESM2-0.
+2. Use 1985–2014 as the historical baseline for anomalies.
+3. Plot:
+   - Time series of global temperature anomalies for each scenario.
+   - Bar chart comparing projected warming in 2050–2099 across scenarios.

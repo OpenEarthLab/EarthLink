@@ -1,0 +1,5 @@
+Estimating Equilibrium Climate Sensitivity (ECS) in CMIP6 models.
+Requirements:
+1. CMIP6 models: ACCESS-CM2, BCC-ESM1, CAS-ESM2-0, CESM2, CIESM, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, E3SM-2-0, FGOALS-f3-L, FIO-ESM-2-0, GFDL-ESM4, GISS-E2-2-G, INM-CM5-0, IPSL-CM6A-LR, KACE-1-0-G, KIOST-ESM, MIROC6, MPI-ESM1-2-LR, NESM3, NorCPM1, TaiESM1
+2. Visualize of the regression equation for calculating ecs for each model
+3. Rank the models according to the calculated ecs value, give the average result, and draw a PDF distribution diagram

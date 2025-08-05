@@ -1,0 +1,7 @@
+Evaluate and compare the performance of CMIP6 models in simulating sea surface temperture.
+Requirements:
+1. Plot bias map in global and different degions
+2. Give the model a ranking, which can be displayed in a bar chart. 
+3. CMIP6 models: ACCESS-CM2, ACCESS-ESM1-5, BCC-ESM1, CAMS-CSM1-0, CAS-ESM2-0, CESM2, CIESM, CMCC-CM2-HR4, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, FGOALS-f3-L, FGOALS-g3, FIO-ESM-2-0, GFDL-CM4, GFDL-ESM4, GISS-E2-2-G, GISS-E2-2-H, INM-CM5-0, IPSL-CM6A-LR-INCA, KACE-1-0-G, KIOST-ESM, MCM-UA-1-0, MIROC6, MPI-ESM-1-2-HAM, MPI-ESM1-2-LR, NESM3, NorCPM1.
+4. Reference dataset: HadISST.
+5. Time period: 1985-2014.
