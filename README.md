@@ -12,7 +12,7 @@
 </div>
 
 ## Documentation
-
+- [User Manual (CN)](https://aicarrier.feishu.cn/wiki/KzeGwLns6iWiuLk00Kmcpfb4njh) | [User Manual (EN)](https://aicarrier.feishu.cn/wiki/K4JRwWU07iaS3XkeOl1cDW5Jnqh)
 - [Guidelines for Writing Requests](./request_examples/README.md#guidelines-for-writing-requests)
 - [Available Data Information](./files/avail_data.xlsx)
   - [CMIP6 Data](./files/avail_CMIP6_data.xlsx)
