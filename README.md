@@ -13,10 +13,10 @@
 
 ## Documentation
 - User Manuals / 用户手册:
-  - <a href="https://aicarrier.feishu.cn/wiki/K4JRwWU07iaS3XkeOl1cDW5Jnqh" target="_blank">English Version (EN)</a>
-  - <a href="https://aicarrier.feishu.cn/wiki/KzeGwLns6iWiuLk00Kmcpfb4njh" target="_blank">中文版本 (CN)</a>
+  - [English Version (EN)](https://aicarrier.feishu.cn/wiki/K4JRwWU07iaS3XkeOl1cDW5Jnqh)
+  - [中文版本 (CN)](https://aicarrier.feishu.cn/wiki/KzeGwLns6iWiuLk00Kmcpfb4njh)
 - [Guidelines for Writing Requests](./request_examples/README.md#guidelines-for-writing-requests)
-- [Available Data Information](./files/avail_data.xlsx)
+- Available Data Information
   - [CMIP6 Data](./files/avail_CMIP6_data.xlsx)
   - [Obs Data](./files/avail_obs_data.xlsx)
   - [obs4MIPs Data](./files/avail_obs4mips_data.xlsx)
