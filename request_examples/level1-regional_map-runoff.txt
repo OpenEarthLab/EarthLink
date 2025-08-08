@@ -3,6 +3,6 @@ Requirements:
 1. Analyze the global and different regions.
 2. When drawing map images, use the appropriate projection in 'cartopy' package.
 3. Give the model a ranking, which can be displayed in a bar chart.
-4. CMIP6 models: ACCESS-ESM1-5, BCC-CSM2-MR, BCC-ESM1, CESM2, CESM2-FV2, CESM2-WACCM, CIESM, CMCC-CM2-HR4, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, E3SM-1-0, GFDL-CM4, GFDL-ESM4, GISS-E2-1-G, GISS-E2-1-G-CC, GISS-E2-1-H, GISS-E2-2-G, GISS-E2-2-H, INM-CM4-8, INM-CM5-0, IPSL-CM6A-LR, IPSL-CM6A-LR-INCA, KACE-1-0-G, KIOST-ESM, MCM-UA-1-0, MIROC6, MPI-ESM-1-2-HAM, MPI-ESM1-2-LR, TaiESM1
+4. CMIP6 models: BCC-ESM1, CESM2, CESM2-FV2, CESM2-WACCM, CIESM, CMCC-CM2-HR4, CMCC-CM2-SR5, CMCC-ESM2, CanESM5, E3SM-1-0, GFDL-CM4, GFDL-ESM4, GISS-E2-1-G, GISS-E2-1-G-CC, GISS-E2-1-H, GISS-E2-2-G, GISS-E2-2-H, INM-CM4-8, INM-CM5-0, IPSL-CM6A-LR, IPSL-CM6A-LR-INCA, KACE-1-0-G, KIOST-ESM, MCM-UA-1-0, MIROC6, MPI-ESM-1-2-HAM, MPI-ESM1-2-LR, TaiESM1
 5. Reference dataset: ERA5.
 6. Time period: 1985-2014.
